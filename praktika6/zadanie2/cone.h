@@ -52,4 +52,5 @@ protected:
 };
 
 
-#endif //INDUSTRIAL_PROGRAMMENT_PRACTIC_CONE_H
+#endif
+
