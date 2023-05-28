@@ -1,5 +1,5 @@
-#ifndef INDUSTRIAL_PROGRAMMENT_PRACTIC_SEA_H
-#define INDUSTRIAL_PROGRAMMENT_PRACTIC_SEA_H
+#ifndef rrrrrr
+#define rrrrrr
 
 
 #include <string>
